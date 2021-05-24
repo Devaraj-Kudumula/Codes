@@ -1,4 +1,4 @@
-package DAA_Project
+package Algorithms
 
 object Astar_algorithm {
 
